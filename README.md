@@ -32,3 +32,8 @@ sudo dpkg -i xinput-calibrator_0.7.5-1_armhf.deb
 ```
 
 then click Raspbian Start Menu -> Preference -> Calibration Touchscreen. Follow the instruction.
+
+### Where To Buy
+
+Tokopedia: https://goo.gl/ru3cCr
+Bukalapak: https://goo.gl/xBTbAM
